@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "picture": "https://i.ibb.co/HnQL8Gz/Health.png",
+    "title": "Clean water for children",
+    "categoryName": "Health",
+    "category_bg": "#0052FF",
+    "card_bg": "#0052FF26",
+    "text_button_bg": "#0052FF",
+    "description": "Health is a state of physical, mental, and social well-being. It encompasses nutrition, exercise, mental resilience, and access to healthcare. Prioritizing health leads to a fulfilling and vibrant life.",
+    "price": "$19.99"
+  },
+  {
+    "id": 2,
+    "picture": "https://i.ibb.co/n1Q8nws/Education.png",
+    "title": "Good education",
+    "categoryName": "Education",
+    "category_bg": "#FF444A",
+    "card_bg": "#FF444A26",
+    "text_button_bg": "#FF444A",
+    "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+    "price": "$24.99"
+  },
+  {
+    "id": 3,
+    "picture": "https://i.ibb.co/N6k2cSf/Clothing.png",
+    "title": "Used Clothing Drive",
+    "categoryName": "Clothing",
+    "category_bg": "#79C23F",
+    "card_bg": "#79C23F38",
+    "text_button_bg": "#79C23F",
+    "description": "Clothing is an essential aspect of human culture, offering both protection and self-expression. It encompasses a wide range of styles, materials, and designs, reflecting individual tastes and societal norms.",
+    "price": "$14.99"
+  },
+  {
+    "id": 4,
+    "picture": "https://i.ibb.co/Z124PQP/Food.png",
+    "title": "Better Food for Everyone",
+    "categoryName": "Food",
+    "category_bg": "#F87147",
+    "card_bg": "#F871470F",
+    "text_button_bg": "#F87147",
+    "description": "Food is essential for nourishing our bodies and providing us with energy. It encompasses a wide range of flavors, cultures, and traditions, making it a source of both sustenance and enjoyment.",
+    "price": "$29.99"
+  },
+  {
+    "id": 5,
+    "picture": "https://i.ibb.co/HnQL8Gz/Health.png",
+    "title": "Clean water for children",
+    "categoryName": "Health",
+    "category_bg": "#0052FF",
+    "card_bg": "#0052FF26",
+    "text_button_bg": "#0052FF",
+    "description": "Health is a state of physical, mental, and social well-being. It encompasses nutrition, exercise, mental resilience, and access to healthcare. Prioritizing health leads to a fulfilling and vibrant life.",
+    "price": "$34.99"
+  },
+  {
+    "id": 6,
+    "picture": "https://i.ibb.co/n1Q8nws/Education.png",
+    "title": "Good education",
+    "categoryName": "Education",
+    "category_bg": "#FF444A",
+    "card_bg": "#FF444A26",
+    "text_button_bg": "#FF444A",
+    "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+    "price": "$22.99"
+  },
+  {
+    "id": 7,
+    "picture": "https://i.ibb.co/N6k2cSf/Clothing.png",
+    "title": "Used Clothing Drive",
+    "categoryName": "Clothing",
+    "category_bg": "#79C23F",
+    "card_bg": "#79C23F38",
+    "text_button_bg": "#79C23F",
+    "description": "Clothing is an essential aspect of human culture, offering both protection and self-expression. It encompasses a wide range of styles, materials, and designs, reflecting individual tastes and societal norms.",
+    "price": "$19.99"
+  },
+  {
+    "id": 8,
+    "picture": "https://i.ibb.co/Z124PQP/Food.png",
+    "title": "Better Food for Everyone",
+    "categoryName": "Food",
+    "category_bg": "#F87147",
+    "card_bg": "#F871470F",
+    "text_button_bg": "#F87147",
+    "description": "Food is essential for nourishing our bodies and providing us with energy. It encompasses a wide range of flavors, cultures, and traditions, making it a source of both sustenance and enjoyment.",
+    "price": "$27.99"
+  },
+  {
+    "id": 9,
+    "picture": "https://i.ibb.co/HnQL8Gz/Health.png",
+    "title": "Clean water for children",
+    "categoryName": "Health",
+    "category_bg": "#0052FF",
+    "card_bg": "#0052FF26",
+    "text_button_bg": "#0052FF",
+    "description": "Health is a state of physical, mental, and social well-being. It encompasses nutrition, exercise, mental resilience, and access to healthcare. Prioritizing health leads to a fulfilling and vibrant life.",
+    "price": "$16.99"
+  },
+  {
+    "id": 10,
+    "picture": "https://i.ibb.co/n1Q8nws/Education.png",
+    "title": "Good education",
+    "categoryName": "Education",
+    "category_bg": "#FF444A",
+    "card_bg": "#FF444A26",
+    "text_button_bg": "#FF444A",
+    "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+    "price": "$32.99"
+  },
+  {
+    "id": 11,
+    "picture": "https://i.ibb.co/N6k2cSf/Clothing.png",
+    "title": "Used Clothing Drive",
+    "categoryName": "Clothing",
+    "category_bg": "#79C23F",
+    "card_bg": "#79C23F38",
+    "text_button_bg": "#79C23F",
+    "description": "Clothing is an essential aspect of human culture, offering both protection and self-expression. It encompasses a wide range of styles, materials, and designs, reflecting individual tastes and societal norms.",
+    "price": "$21.99"
+  },
+  {
+    "id": 12,
+    "picture": "https://i.ibb.co/Z124PQP/Food.png",
+    "title": "Better Food for Everyone",
+    "categoryName": "Food",
+    "category_bg": "#F87147",
+    "card_bg": "#F871470F",
+    "text_button_bg": "#F87147",
+    "description": "Food is essential for nourishing our bodies and providing us with energy. It encompasses a wide range of flavors, cultures, and traditions, making it a source of both sustenance and enjoyment.",
+    "price": "$18.99"
+  }
+]
